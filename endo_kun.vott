@@ -1,0 +1,524 @@
+{
+    "name": "endo_kun",
+    "securityToken": "endo_kun Token",
+    "sourceConnection": {
+        "name": "data",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDQ4ZTY2NTlmYzEzMzc1MGQ5NDUxOGVhZWM4ZjFiZWZmNTU1YTVmNzM0NzEwMjdhZDJhMTkyOGJhYTZlYzk5MmQ3NmUyMjc3NzM2YjM3NmY5OGVlMWRmZDI2NGQ3OTg1OGFiMGNmNzA0ZTkxOTk5ZmIxMDNiZTdmNjM1ODlmOWMiLCJpdiI6Ijk2MTc2NjRlNmZlOTczNmE5YTA1M2UxNzYwYTVjNjVkMmQ0ZDliYTU4ZjkyOWY4NCJ9"
+        },
+        "id": "yKHhK5HN8"
+    },
+    "targetConnection": {
+        "name": "list",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMWE4ODhkMTViZjhkNzY5OTQwNmRhZjA2ZmQ0MDU3YzFhNTc0MmRjYTBkMzg4NjI2NmI0NWQ1ZDM1MGI0YjQwNjE1YWQ4NWJhNDBlZmQxYTdmYjUxYTM3OTJmYjRkN2RiIiwiaXYiOiI5NmE0YmJkYTRhNWE0ODJjM2NmZTg5ZDMzZTBhMDViMDkxN2U3NTZkMmQ4Mjc3NWUifQ=="
+        },
+        "id": "JdB9xpDZO"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "seed",
+            "color": "#5db300"
+        },
+        {
+            "name": "flower",
+            "color": "#e81123"
+        }
+    ],
+    "version": "2.0.0",
+    "exportFormat": {
+        "providerType": "tensorFlowPascalVOC",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzQ0MDc1M2QzMDdjYzZmYWNjMDMxMTU2MzNjZjczMWY3MDY0YzE5MWUyNGI2NDk3Y2E5MGNlNTRhN2I2ZGY3ODAxNDRiMDAyZjRhODg4MTFmNzJhY2ZiZWZmM2JmMDMzYTg4ODA3NTRkN2FkMmUwYjJiYWFkYTlmYjBhY2Y0YmRmYTM4MDNkZDBjMGU1NTIyYTNiNzlhMjg5NWExNTNiZSIsIml2IjoiMzZkODE3MzA2NTc1NjI5YWIzMThlNGU3NmFkNTJkZTFiY2ViOTM1YmNmYzU1YmRlIn0="
+        }
+    },
+    "id": "wmE6a4QAl",
+    "lastVisitedAssetId": "b8fe64c8b1c4bce38d96bfa7a052de25",
+    "assets": {
+        "b9b74e43acefe5ce3cdfdcfcdf7bd4da": {
+            "format": "jpg",
+            "id": "b9b74e43acefe5ce3cdfdcfcdf7bd4da",
+            "name": "1.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/1.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6bfe4d49a6f2c7377667665d1b5aadf0": {
+            "format": "jpg",
+            "id": "6bfe4d49a6f2c7377667665d1b5aadf0",
+            "name": "20200202_134547741.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200202_134547741.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5614ffc0b2be6f13b6699385c8abbcce": {
+            "format": "jpg",
+            "id": "5614ffc0b2be6f13b6699385c8abbcce",
+            "name": "20200202_134647675.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200202_134647675.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "09dd8adc161e1a1abf7d8aa4c1e6ac12": {
+            "format": "jpg",
+            "id": "09dd8adc161e1a1abf7d8aa4c1e6ac12",
+            "name": "20200209_152119.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200209_152119.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6db492a0cfe203f36818c36f52400152": {
+            "format": "jpg",
+            "id": "6db492a0cfe203f36818c36f52400152",
+            "name": "20200209_152155.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200209_152155.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ace8227efe3713dc5e07b0ee40b0b288": {
+            "format": "jpg",
+            "id": "ace8227efe3713dc5e07b0ee40b0b288",
+            "name": "20200209_152247.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200209_152247.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d9bff632f6f3e053efb3d1d27b1f22fa": {
+            "format": "jpg",
+            "id": "d9bff632f6f3e053efb3d1d27b1f22fa",
+            "name": "20200209_152217.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200209_152217.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "87f0cbaf8eb5b7cfe8c94e6dee2918d0": {
+            "format": "jpg",
+            "id": "87f0cbaf8eb5b7cfe8c94e6dee2918d0",
+            "name": "20200224_064225247.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_064225247.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b3fbd2e89fa8e268873a1f8de26c5564": {
+            "format": "jpg",
+            "id": "b3fbd2e89fa8e268873a1f8de26c5564",
+            "name": "20200224_195330037.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195330037.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da803e9afbdc5e0eabff7bd19c40799d": {
+            "format": "jpg",
+            "id": "da803e9afbdc5e0eabff7bd19c40799d",
+            "name": "20200224_195340834.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195340834.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9c49f1648299e7b6a807fc72788ef23d": {
+            "format": "jpg",
+            "id": "9c49f1648299e7b6a807fc72788ef23d",
+            "name": "20200224_195349909.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195349909.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1c084fbe4d635c6b56374dfb13e211ef": {
+            "format": "jpg",
+            "id": "1c084fbe4d635c6b56374dfb13e211ef",
+            "name": "20200224_195358945.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195358945.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a3ff90ee5cd3282723f4aa21f025e7f6": {
+            "format": "jpg",
+            "id": "a3ff90ee5cd3282723f4aa21f025e7f6",
+            "name": "20200224_195406871.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195406871.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65679ad48e9406c0fc387e4bf4db9986": {
+            "format": "jpg",
+            "id": "65679ad48e9406c0fc387e4bf4db9986",
+            "name": "20200224_195413982.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195413982.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "13b4ea48c4d1b049d71ab40ee02ffb4c": {
+            "format": "jpg",
+            "id": "13b4ea48c4d1b049d71ab40ee02ffb4c",
+            "name": "20200224_195419982.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195419982.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ee6ab615205621104dc50042e5774428": {
+            "format": "jpg",
+            "id": "ee6ab615205621104dc50042e5774428",
+            "name": "20200224_195427105.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195427105.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8c775e9e754504ea28818449f2c092e3": {
+            "format": "jpg",
+            "id": "8c775e9e754504ea28818449f2c092e3",
+            "name": "20200224_195434054.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195434054.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3009f8753a1dbb5429bc03ebd17117c6": {
+            "format": "jpg",
+            "id": "3009f8753a1dbb5429bc03ebd17117c6",
+            "name": "20200224_195440782.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195440782.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46194bcaccbcba5906d7950da6a1a164": {
+            "format": "jpg",
+            "id": "46194bcaccbcba5906d7950da6a1a164",
+            "name": "20200224_195447281.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195447281.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c17a5b6b5e1075d21e912523e6fcb701": {
+            "format": "jpg",
+            "id": "c17a5b6b5e1075d21e912523e6fcb701",
+            "name": "20200224_195452660.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195452660.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f7453de056225370f6851943cbcb937": {
+            "format": "jpg",
+            "id": "1f7453de056225370f6851943cbcb937",
+            "name": "20200224_195458871.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195458871.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9cd119a34cab7d3f500bcf5d685c7d30": {
+            "format": "jpg",
+            "id": "9cd119a34cab7d3f500bcf5d685c7d30",
+            "name": "20200224_195504938.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195504938.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "172b21fc7e3cef9102fe6ed52f862804": {
+            "format": "jpg",
+            "id": "172b21fc7e3cef9102fe6ed52f862804",
+            "name": "20200224_195634518.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195634518.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "92f9f847398ee3cfcfe1d0c0319b8714": {
+            "format": "jpg",
+            "id": "92f9f847398ee3cfcfe1d0c0319b8714",
+            "name": "20200224_195639083.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195639083.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "646ac484236d7ae68d13b6f19fd9c380": {
+            "format": "jpg",
+            "id": "646ac484236d7ae68d13b6f19fd9c380",
+            "name": "20200224_195704445.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195704445.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f0c9262927c8e07aaeaea098d4291524": {
+            "format": "jpg",
+            "id": "f0c9262927c8e07aaeaea098d4291524",
+            "name": "20200224_195710110.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195710110.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f6a12c6c6fec4350868fb5b76852d47": {
+            "format": "jpg",
+            "id": "1f6a12c6c6fec4350868fb5b76852d47",
+            "name": "20200224_195716394.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195716394.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ddc42f86874bec4e487e59615600225": {
+            "format": "jpg",
+            "id": "8ddc42f86874bec4e487e59615600225",
+            "name": "20200224_195721663.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195721663.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0362a8539ed3dec95096d11140ff8131": {
+            "format": "jpg",
+            "id": "0362a8539ed3dec95096d11140ff8131",
+            "name": "20200224_195728554.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195728554.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "305ee605ccc42571d19ee817dc727e05": {
+            "format": "jpg",
+            "id": "305ee605ccc42571d19ee817dc727e05",
+            "name": "20200224_195732935.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195732935.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "618adbd499aaa9172bc94f08b2d3a69a": {
+            "format": "jpg",
+            "id": "618adbd499aaa9172bc94f08b2d3a69a",
+            "name": "20200224_195738808.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195738808.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bb47265b9de2526fd34b258c5d56bbc1": {
+            "format": "jpg",
+            "id": "bb47265b9de2526fd34b258c5d56bbc1",
+            "name": "20200224_195744719.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195744719.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4a620e7b7a0d1432771e9893f45ac7e9": {
+            "format": "jpg",
+            "id": "4a620e7b7a0d1432771e9893f45ac7e9",
+            "name": "20200224_195748997.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195748997.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d1fd7446eb310472e042f962b87dc49": {
+            "format": "jpg",
+            "id": "3d1fd7446eb310472e042f962b87dc49",
+            "name": "20200224_195753431.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195753431.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fc001c06f46771e1aa1d47ae7a298c57": {
+            "format": "jpg",
+            "id": "fc001c06f46771e1aa1d47ae7a298c57",
+            "name": "20200224_195758121.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195758121.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a1e094dcbae0d0ea409561c0f32a58b9": {
+            "format": "jpg",
+            "id": "a1e094dcbae0d0ea409561c0f32a58b9",
+            "name": "20200224_195805724.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195805724.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8078c57ed22acdb49161240fada4c7c3": {
+            "format": "jpg",
+            "id": "8078c57ed22acdb49161240fada4c7c3",
+            "name": "20200224_195810552.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195810552.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "55dac51b81d457e953414e2d8a736fc0": {
+            "format": "jpg",
+            "id": "55dac51b81d457e953414e2d8a736fc0",
+            "name": "20200224_195819073.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195819073.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2c8f866c8dff6fc02a9675896b1f24c2": {
+            "format": "jpg",
+            "id": "2c8f866c8dff6fc02a9675896b1f24c2",
+            "name": "20200224_195829212.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195829212.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8fe64c8b1c4bce38d96bfa7a052de25": {
+            "format": "jpg",
+            "id": "b8fe64c8b1c4bce38d96bfa7a052de25",
+            "name": "20200224_195833295.jpg",
+            "path": "file:/Users/dokechin/work/endo_kun/data/20200224_195833295.jpg",
+            "size": {
+                "width": 1080,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

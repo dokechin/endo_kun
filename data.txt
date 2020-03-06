@@ -1,0 +1,5 @@
+classes = 2
+train = endo_kun/train.txt
+valid = endo_kun/test.txt
+names = endo_kun/names.txt
+backup = /content/Drive 
